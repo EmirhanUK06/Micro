@@ -1,5 +1,5 @@
 .data
-MyByte dw "A"
+MyByte dq "ABC"
 
 .code
 testFunction proc

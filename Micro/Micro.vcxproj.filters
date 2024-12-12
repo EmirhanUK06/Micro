@@ -29,5 +29,8 @@
     <MASM Include="Gcd.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="..\..\..\KelimeTahmin.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
 </Project>

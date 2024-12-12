@@ -14,8 +14,8 @@ using namespace std;
 int main()
 {
 	//cout<<"ASM'den alinan deger " << Parameter(1, 50, 45)<<endl;
-	//cout << "GCD Degeri: " << Gcd(400, 144) << endl;
-	testFunction();
+	cout << "GCD Degeri: " << Gcd(400, 144) << endl;
+	//testFunction();
 	_getch();
 
 	return 0;

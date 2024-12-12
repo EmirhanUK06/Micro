@@ -131,6 +131,7 @@
     <ClCompile Include="Micro.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <MASM Include="..\..\..\KelimeTahmin.asm" />
     <MASM Include="fibonacci.asm" />
     <MASM Include="Gcd.asm" />
     <MASM Include="ParameterEx.asm" />
